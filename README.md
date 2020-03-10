@@ -1,5 +1,7 @@
 # BACEN CPF SCRAPER  
 
+Rrecovery information from Banco Central of Brazil
+
 ## Dependences
 
 ```
